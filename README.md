@@ -1,5 +1,5 @@
 # kicad-pmod_usb
-PMOD module for FPGA USB device implementation
+PMOD PCB module for FPGA USB device implementation
 
 An FPGA-based USB full-speed device core to implement USB-serial, USB-camera, USB-audio, USB-hid, etc.
 
