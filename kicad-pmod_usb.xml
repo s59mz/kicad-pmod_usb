@@ -2,7 +2,7 @@
 <export version="E">
   <design>
     <source>/home/matjaz/Kicad/kicad-pmod_usb/kicad-pmod_usb.kicad_sch</source>
-    <date>sob 02 dec 2023 17:15:59</date>
+    <date>sob 16 dec 2023 11:52:52</date>
     <tool>Eeschema 7.0.9-7.0.9~ubuntu20.04.1</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -103,7 +103,7 @@
       <tstamps>8058d38d-d3a8-45f2-a3d1-9746013b710c</tstamps>
     </comp>
     <comp ref="R2">
-      <value>68E</value>
+      <value>4k7</value>
       <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="Sheetname" value=""/>
@@ -114,7 +114,7 @@
       <tstamps>7fa910bd-8baa-4c23-b5d2-4389cb63455c</tstamps>
     </comp>
     <comp ref="R3">
-      <value>150E</value>
+      <value>10k</value>
       <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="Sheetname" value=""/>
