@@ -5,7 +5,11 @@ An FPGA-based USB full-speed device core to implement USB-serial, USB-camera, US
 
 It requires only 3 FPGA common IOs rather than additional chips.
 
-![alt text](https://github.com/s59mz/kicad-pmod_usb/blob/main/kicad-pmod_usb_3d.jpg)
+![alt text](kicad-pmod_usb_3d.jpg)
+
+![alt text](kicad-pmod_usb_top.jpg)
+
+![alt text](kicad-pmod_usb_bot.jpg)
 
 RTL code available at:
 https://github.com/s59mz/FPGA-USB-Device
