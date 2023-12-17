@@ -9,3 +9,12 @@ It requires only 3 FPGA common IOs rather than additional chips.
 
 RTL code available at:
 https://github.com/s59mz/FPGA-USB-Device
+
+Schematic:
+[kicad-pmod_usb.pdf](kicad_pmod_usb.pdf)
+
+BOM:
+[kicad_pmod_usb.csv](kicad_pmod_usb.csv)
+
+Gerbers:
+[gerbers.zip](https://github.com/s59mz/kicad_pmod_usb/raw/main/gerbers.zip)
